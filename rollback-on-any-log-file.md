@@ -6,7 +6,7 @@
 
 2. 最新のログを統合する
 
-これは既定の復帰方法であるため，4Dには，自動復元のための[データベース設定](http://doc.4d.com/4Dv14/4D/14.3/Configuration-of-backup-settings.300-1705434.ja.html)が用意されています。
+これは既定の復帰手順であるため，4Dには，自動復帰のための[データベース設定](http://doc.4d.com/4Dv14/4D/14.3/Configuration-of-backup-settings.300-1705434.ja.html)が用意されています。
 
 * データベースが壊れていたら、最新のバックアップから復元する
 
