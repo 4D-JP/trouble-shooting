@@ -1,1 +1,3 @@
-# trouble-shooting
+Trouble Shooting
+---
+[カレントログファイル以外のログファイル（.4BL）からデータを復元したい（手動ロールバック）]()
